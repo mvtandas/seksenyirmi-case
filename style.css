@@ -1,0 +1,53 @@
+.navbar{
+    padding: 1% 5% 1% 5%;
+
+}
+.nav-item{
+    padding: 0px 25px 0px 0px;
+}
+
+.carousel img {
+    height: 92vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.carousel-indicators, .carousel-caption {
+    float: left;
+    right: inherit;
+    text-align: left;
+}
+.carousel-indicators{
+    padding-bottom: 5%;
+}
+.carousel-caption{
+    padding-bottom: 10%;
+
+}
+.cards{
+    background-color: azure;
+    padding: 20px 0px 20px 0px;
+}
+.card{
+    border: 1px solid grey!important;
+    border-radius: 8% !important;
+    margin-right: 50px;
+    background-color: grey;
+}
+ .cards img, .article img, .portfolio img{
+    border-radius: 8% !important;
+    padding: 5%;
+
+}
+.footer-menu{
+    padding-left: 20px;
+    border-left: 1px solid grey;
+    height: 200px;
+}
+hr{
+    width: 5%;
+    color: blue;
+    height: 3px!important;
+}
+
